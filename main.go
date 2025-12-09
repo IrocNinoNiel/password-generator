@@ -58,7 +58,7 @@ func main() {
 		password.WriteByte(char)
 	}
 
-	fmt.Printf("Generated Password: %s\n", password.String())  // Add .String()
+	fmt.Printf("Generated Password: %s\n", password.String())
 
 }
 
